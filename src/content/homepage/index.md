@@ -1,40 +1,40 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
+  title: Taman Penitipan Anak Yang Aman dan Menyenangkan
+  content: Memberikan Perawatan dan Pendidikan yang Aman, Menyenangkan, dan Berkualitas untuk Anak-Anak Anda, Membantu Mereka Tumbuh dan Berkembang dengan Cinta dan Perhatian
   image: /images/banner-art.png
   button:
-    label: "Contact Us"
+    label: "Daftar Sekarang"
     link: "/contact"
     enable: true
 
 # feature
 feature: 
-  title: Something You Need To Know
+  title: Mengapa Memilih Kami
   features:
-  - name: "Clean Code"
+  - name: "Pengasuh Yang Sabar"
     icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Object Oriented"
+    content: "Kami mengasuh anak dengan kesabaran dan keikhlasan"
+  - name: "Pengasuh Berpengalaman"
     icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "24h Service"
+    content: "Pengasuh kami berpengalaman di bidang pengasuhan dan pendidikan"
+  - name: "Mengasuh Dengan Sepenuh Hati"
     icon: "/images/user-clock.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Value for Money"
+    content: "Setiap anak kami cintai secara merata, tidak pilih-pilih"
+  - name: "Baca Doa"
     icon: "/images/love.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Faster Response"
+    content: "Kami mengajarkan bacaan doa-doa sehari sesuai tuntunan Nabi"
+  - name: "Surat-surat pendek"
     icon: "/images/speedometer.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Cloud Support"
+    content: "Surat-surat pendek juz 30 juga kami ajarkan. Anak-anak kita ajak membaca dan menghafal semampu mereka"
+  - name: "Privat Iqro' Dan Baca Tulis"
     icon: "/images/cloud.svg"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
 
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Penitipan Anak"
+    content: "Taman Penitipan Anak Yang Aman dan Menyenangkan."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
@@ -44,7 +44,7 @@ services:
       label: Check it out
       link: /contact
 
-  - title: "It is a privately owned Information and cyber security company"
+  - title: "Privat Iqro' Dan Baca Tulis"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
     images: 
       - "/images/service-slide-1.png"
@@ -53,41 +53,19 @@ services:
       label: Check it out
       link: /contact
   
-  - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
-
-  - title: "A company standing different from others"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
-
 # workflow
 workflow: 
-  title: "Experience the best workflow with us"
+  title: "Testimoni"
   image: "/images/banner.png"
-  description: ""
+  description: "Apa kata mereka tentang Adiba Kids"
 
 # call_to_action
 call_to_action:
-  title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  title: Siap untuk memulai?
+  content: Tunggu apalagi. GRATIS biaya pendaftaran untuk pendaftar 10 pertama, hingga Agustus 2024
   image: '/images/cta.png'
   button:
     enable: true
-    label: "Contact Us"
+    label: "Daftar Sekarang"
     link: "/contact"
 ---

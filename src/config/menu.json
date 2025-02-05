@@ -1,7 +1,7 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Beranda",
       "url": "/"
     },
     {
@@ -9,20 +9,16 @@
       "url": "/blog"
     },
     {
-      "name": "Pricing",
+      "name": "Harga",
       "url": "/pricing"
     },
     {
-      "name": "Contact",
+      "name": "Kontak",
       "url": "/contact"
     },
     {
       "name": "FAQ",
       "url": "/faq"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
     }
   ],
   "footer": [
@@ -30,29 +26,25 @@
       "name": "Company",
       "menu": [
         {
-          "text": "Pricing",
+          "text": "Harga",
           "url": "/pricing"
         },
         {
-          "text": "Quick Start",
+          "text": "Mulai Sekarang",
           "url": "#"
         }
       ]
     },
     {
-      "name": "Product",
+      "name": "Layanan",
       "menu": [
         {
-          "text": "Features",
+          "text": "Penitipan Anak",
           "url": "#"
         },
         {
-          "text": "Platform",
+          "text": "Privat Iqro' dan Baca Tulis",
           "url": "#"
-        },
-        {
-          "text": "Pricing",
-          "url": "/pricing"
         }
       ]
     },
