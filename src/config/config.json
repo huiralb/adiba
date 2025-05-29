@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Bigspring Light Astro",
+    "title": "Tempat Penitipan Anak ADIBA",
     "base_url": "https://bigspring-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
@@ -8,7 +8,7 @@
     "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "38",
-    "logo_text": "Astroplate"
+    "logo_text": "ADIBA"
   },
 
   "settings": {
@@ -19,20 +19,20 @@
 
   "nav_button": {
     "enable": true,
-    "label": "Get Started",
+    "label": "Daftar Sekarang",
     "link": "/contact"
   },
 
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Amanah Aman Nyaman",
+    "footer_content": "ADIBA - Pendidikan Anak Usia Dini",
     "copyright": "Developed By Irnovi"
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "ADIBA",
     "meta_image": "/images/og-image.png",
-    "meta_description": "astro boilerplate"
+    "meta_description": "Tempat Penitipan Anak ADIBA - Kami menyediakan lingkungan yang aman, nyaman, dan edukatif untuk perkembangan optimal buah hati Anda."
   }
 }

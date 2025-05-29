@@ -1,25 +1,10 @@
 {
   "main": [
-    {
-      "name": "Beranda",
-      "url": "/"
-    },
-    {
-      "name": "Blog",
-      "url": "/blog"
-    },
-    {
-      "name": "Harga",
-      "url": "/pricing"
-    },
-    {
-      "name": "Kontak",
-      "url": "/contact"
-    },
-    {
-      "name": "FAQ",
-      "url": "/faq"
-    }
+    { "name": "Beranda", "url": "/" },
+    { "name": "Tentang ADIBA", "url": "/tentang-adiba" },
+    { "name": "Layanan Kami", "url": "/layanan" },
+    { "name": "Testimoni", "url": "/testimoni" },
+    { "name": "Kontak", "url": "/contact" }
   ],
   "footer": [
     {
@@ -38,14 +23,8 @@
     {
       "name": "Layanan",
       "menu": [
-        {
-          "text": "Penitipan Anak",
-          "url": "#"
-        },
-        {
-          "text": "Privat Iqro' dan Baca Tulis",
-          "url": "#"
-        }
+        { "text": "Penitipan Anak", "url": "/layanan#penitipan" },
+        { "text": "Privat Iqro' dan Calistung", "url": "/layanan#privat" }
       ]
     },
     {
